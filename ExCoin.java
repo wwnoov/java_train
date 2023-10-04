@@ -3,7 +3,7 @@ package com.myStudy.train;
 import java.util.Scanner;
 
 /**
- 거스름돈을 지불한느 프로그램
+ 거스름돈을 지불하는 프로그램
  */
 
 public class ExCoin {
