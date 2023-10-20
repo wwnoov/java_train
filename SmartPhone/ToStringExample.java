@@ -1,5 +1,7 @@
 package com.myStudy.train.train1016.ex08;
-
+/**
+ * 자바 라이브러리
+ * */
 public class ToStringExample {
     public static void main(String[] args) {
         SmartPhone myPhone = new SmartPhone("삼성전자","안드로이드");
