@@ -1,5 +1,6 @@
 package com.myStudy.ex_myClass;
 /**
+ * 자바 생성자
  * 코드실행시 호출되는 생성자 순서 연습
  * */
 public class Parent {
