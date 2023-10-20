@@ -1,7 +1,9 @@
 package com.myStudy.train;
 
 /**
+ * 자바
  회문수를 구하는 프로그램
+ 숫자를 거꾸로 읽어도 앞으로 읽는 것과 같은 수
  */
 public class ExPalinDrome {
         public static void main(String[] args)
