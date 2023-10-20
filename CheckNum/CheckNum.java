@@ -2,7 +2,9 @@ package com.myStudy.train.train1016.ex05;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;
-
+/**
+ * 자바 패턴
+ * */
 public class CheckNum {
     public static void main(String[] args) {
 
