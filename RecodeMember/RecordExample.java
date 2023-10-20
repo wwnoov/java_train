@@ -1,5 +1,7 @@
 package com.myStudy.train.train1016.ex09;
-
+/**
+ * 자바 라이브러리
+ * */
 public class RecordExample {
     public static void main(String[] args) {
         Member m = new Member("winter","눈송이",25);
