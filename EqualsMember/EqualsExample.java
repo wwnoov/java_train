@@ -1,5 +1,7 @@
 package com.myStudy.train.train1016.ex06;
-
+/**
+ * 자바 라이브러리
+ * */
 public class EqualsExample {
     public static void main(String[] args) {
         Member obj1 = new Member("blue");

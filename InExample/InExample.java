@@ -1,4 +1,7 @@
 package com.myStudy.train.train1016.ex10;
+/**
+ * 자바 라이브러리
+ * */
 
 public class InExample {
     public static void main(String[] args) throws Exception {

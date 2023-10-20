@@ -1,5 +1,7 @@
 package com.myStudy.train.train1016.ex07;
-
+/**
+ * 자바 라이브러리
+ * */
 public class HashCodeExample {
     public static void main(String[] args) {
         Student s1 = new Student(1,"남원우");

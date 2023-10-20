@@ -1,7 +1,9 @@
 package com.myStudy.train.train1016.ex07;
 
 import java.util.HashSet;
-
+/**
+ * 자바 라이브러리
+ * */
 public class HashSetExample {
     public static void main(String[] args) {
         HashSet hashSet = new HashSet();
