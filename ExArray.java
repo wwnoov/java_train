@@ -1,5 +1,6 @@
 package com.myStudy.train;
 /**
+ * 자바 배열
  배열에 담긴 모든 값의 총합과 평균을 구하는 프로그램
  */
 

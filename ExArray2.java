@@ -1,7 +1,7 @@
 package com.myStudy.train;
 
 /**
- 배열 심화 연습
+ 자바 배열 심화 연습
  1~9사이의 중복되지 않은 숫자로 이루워진 3자리 숫자를 만드는 프로그램
  */
 public class ExArray2 {

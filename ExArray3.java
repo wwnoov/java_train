@@ -1,6 +1,6 @@
 package com.myStudy.train;
 /**
- 배열연습
+ 자바 배열연습
  큰숫자를 우선적으로 출력하는 프로그램
  */
 public class ExArray3 {
