@@ -1,6 +1,6 @@
 package com.myStudy.ex_myClass;
 /**
- * 클래스 연습 문제
+ * 자바 클래스 연습 문제
  * */
 public class Product {
         int price; // 제품의 가격
