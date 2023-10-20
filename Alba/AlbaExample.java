@@ -1,6 +1,6 @@
 package com.myStudy.Inheri.exam03;
 /**
- * 상속 연습
+ * 자바 상속 연습
  * */
 public class AlbaExample {
     public static void main(String[] args) {
