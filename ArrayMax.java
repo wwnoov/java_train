@@ -1,5 +1,6 @@
 package com.myStudy.Array;
 /**
+ * 자바 배열
  * 배열의 값중에 가장 큰값을 반환하는 프로그램
  */
 public class ArrayMax {
