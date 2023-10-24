@@ -3,7 +3,7 @@ package train.oc24;
 import java.util.HashSet;
 /**
  * 요구명세서
- * 섯다카드 프로그램
+ * 섯다 프로그램
  * hashSet를 사용해도 중복이 나와서
  * hashcode 오버라이딩하여서 문제해결
  * */
